@@ -74,14 +74,6 @@ More projects are coming soon!
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagargs999\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagargs999\&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/sagargs999
