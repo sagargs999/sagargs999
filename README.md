@@ -166,7 +166,7 @@ A stock-management application with a FastAPI backend and PostgreSQL database.
 
 👯 I’m looking to collaborate on interesting projects.
 
-📫 How to reach me: sagargs8107@gmail.com
+📫 How to reach me: sagargs8107@gmail.com, gs2112006@gmail.com .
 
 ⚡ Fun fact: Always learning, always building.
 
